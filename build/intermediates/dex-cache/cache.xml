@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\libs\osmdroid-android-4.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f3a0c73a9ed04a5d0959789c53da9f08462bfcc2">
+        <dex dex="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\osmdroid-android-4.2-cb2020ee388dad10a6c0d5a00203a6e6825bcb68.jar" />
+    </item>
+    <item
+        jar="C:\Users\Conor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-8563d0988f6adf25d4939706f5ddd22c657cb4f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\libs\osmbonuspack_v4.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b893939458cdb7c6bdb377d8acfb994a57433fc">
+        <dex dex="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\osmbonuspack_v4.9-07eececb6ce18442ffdbc92e6eebaf64e82b44a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\classes-adfccb16eb913c3c45f88d18852e7f410489b13d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-7fc864af4c279ab637917ea27567e938483298a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\classes-27da2a247bebe7b76db9038fbfb46ce3cbce932b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\libs\slf4j-android-1.5.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="404eece4bb07ea211f5a879c22458775c612f0df">
+        <dex dex="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\slf4j-android-1.5.8-9abf847306f38ce5199bd50e35b4d07567a1ae5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\classes-af7268e75fdded10803895251206651ae88e15fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Conor\Documents\Programming\AndroidStudioProjects\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\classes-64be8e9ddb2a57dd6b793cf0ac99e40e22089fd6.jar" />
+    </item>
+
+</items>
