@@ -38,4 +38,4 @@ When a user is finished they can choose to save a route or not.
 --------NOTE----------
 Please note that the app is not 100% completed. I have much more I want to get into it. I do not have the social media integration included yet. Neither do I have a way to transfer files. I am looking at using Bluetooth. There are some icons missing, mostly because I have not found ones yet. 
 
-This is something I will be continuously adding to and updating. I hope that what it shows already will prove I can program Android, and you can see it is just a matter of me learning what I do not already know.
+This is something I will be continuously adding to and updating. I hope that what it shows already dislays my knowledge of Android and my deisre to continue learning as much as I possibly can.
